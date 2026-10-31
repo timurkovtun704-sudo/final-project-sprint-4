@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7147b205-a418-4ebb-ba2a-2c9b52cb579a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobject/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobject/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobject/StatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/FaqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LogoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/OrderStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ValidationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LJxG4pFKuN4Qqq0NQF26n2Sv9q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.FaqTest.executor": "Run",
+    "JUnit.LogoTest.executor": "Run",
+    "JUnit.LogoTest.shouldOpenIconPage.executor": "Run",
+    "JUnit.OrderStatusTest.executor": "Run",
+    "JUnit.OrderStatusTest.shouldShowMessageForNonExistOrderId.executor": "Run",
+    "JUnit.OrderTest.executor": "Run",
+    "JUnit.OrderTest.shouldCreateOrderSuccessfully.executor": "Run",
+    "JUnit.ValidationTest.executor": "Run",
+    "JUnit.ValidationTest.requiredFieldShouldPreventMovingToNextStep.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/timur/Desktop/final-practice/final-project-sprint-4/final-project",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/timur/Desktop/final-practice/final-project-sprint-4/final-project/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FaqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="final-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FaqTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoTest.shouldOpenIconPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="final-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LogoTest" />
+      <option name="METHOD_NAME" value="shouldOpenIconPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderStatusTest.shouldShowMessageForNonExistOrderId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="final-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OrderStatusTest" />
+      <option name="METHOD_NAME" value="shouldShowMessageForNonExistOrderId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.shouldCreateOrderSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="final-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OrderTest" />
+      <option name="METHOD_NAME" value="shouldCreateOrderSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationTest.requiredFieldShouldPreventMovingToNextStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="final-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ValidationTest" />
+      <option name="METHOD_NAME" value="requiredFieldShouldPreventMovingToNextStep" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValidationTest.requiredFieldShouldPreventMovingToNextStep" />
+        <item itemvalue="JUnit.LogoTest.shouldOpenIconPage" />
+        <item itemvalue="JUnit.FaqTest" />
+        <item itemvalue="JUnit.OrderStatusTest.shouldShowMessageForNonExistOrderId" />
+        <item itemvalue="JUnit.OrderTest.shouldCreateOrderSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7147b205-a418-4ebb-ba2a-2c9b52cb579a" name="Changes" comment="" />
+      <created>1793185874468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793185874468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
